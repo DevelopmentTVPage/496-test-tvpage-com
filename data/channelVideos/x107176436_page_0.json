@@ -1,0 +1,80 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "85434983",
+            "title": "cc.mp4",
+            "date_created": "1487378976",
+            "loginId": "1758403",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "120",
+                    "width": 720,
+                    "height": 306
+                },
+                "mediaDuration": "120",
+                "prettyDuration": "00:02:00",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758403\/canvas\/748\/419\/924953724-0393748812.png",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/media.m3u8",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758403\/85434983\/cc\/vtt\/en_1518126854.vtt",
+                        "default": true
+                    }
+                ],
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 306
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 306
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 306
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 272
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758403\/85434983\/07c33\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 136
+                    }
+                ]
+            },
+            "parentId": "107176436",
+            "url": "\/test\/cc-mp4\/107176436-85434983"
+        }
+    ]
+}
